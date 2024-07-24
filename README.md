@@ -1,0 +1,1 @@
+This repository contains the implementations of the problems from the Hyperskill Java Developer track. The course aims to enhance proficiency in Java programming through a series of tasks and challenges.
